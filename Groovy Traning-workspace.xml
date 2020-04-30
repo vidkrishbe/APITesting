@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="GroovyTraining" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project status="CLOSED" name="calculator">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/Jar/resources/calculator-soapui-project.xml</con:project>
+  <con:project name="Shopping Services">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/Jar/resources/Shopping-Services-soapui-project.xml</con:project>
+  <con:project name="Shopping Mocking Project">C:/Users/VIDHYAKRISHNAMOORTHY/Documents/Shopping-Mocking-Project-soapui-project.xml</con:project>
+  <con:project name="Add &amp; Delete with JSON">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/API Testing/Add---Delete-with-JSON-soapui-project.xml</con:project>
+  <con:project name="Add &amp; Delete with XML">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/API Testing/Add---Delete-with-XML-soapui-project.xml</con:project>
+  <con:project name="Ecommerce Rest Project">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/API Testing/Ecommerce-Rest-Project-soapui-project.xml</con:project>
+  <con:project name="Rest Product Service">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/API Testing/Rest-Product-Service-soapui-project.xml</con:project>
+  <con:project name="Order- Soap Project">C:/Users/VIDHYAKRISHNAMOORTHY/Desktop/API Testing/Order--Soap-Project-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
